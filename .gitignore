@@ -7,3 +7,5 @@ Icon?
 Thumbs.db.env
 .sass-cache
 build/*
+dist/*
+src/helpers/config.js
